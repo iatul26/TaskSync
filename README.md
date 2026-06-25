@@ -284,7 +284,7 @@ Request:
   "title": "Complete README",
   "description": "Prepare GitHub documentation",
   "assignee": "Atul",
-  "deadline": "2025-08-01"
+  "deadline": "2026-08-01"
 }
 ```
 
@@ -501,33 +501,3 @@ git push origin feature-name
 ```
 
 5. Open a Pull Request
-
----
-
-# 👨‍💻 Author
-
-**Atul**
-
-TaskSync – Real-Time Team Operations Hub
-
----
-
-# 📄 License
-
-This project is developed for educational, internship, and learning purposes.
-
----
-
-# ⭐ Support
-
-If you found this project useful:
-
-⭐ Star the repository
-
-🍴 Fork the repository
-
-📢 Share it with others
-
----
-
-Thank You for using TaskSync!
